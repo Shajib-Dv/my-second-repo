@@ -6,8 +6,13 @@
   box-sizing: border-box;
 }
 
-h1,
-h2,
+h1 {
+  color: rgb(2, 28, 97);
+}
+
+h2 {
+  color: blue;
+}
 p {
   color: blueviolet;
 }
