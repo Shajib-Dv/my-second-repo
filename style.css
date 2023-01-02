@@ -16,3 +16,16 @@ h2 {
 p {
   color: blueviolet;
 }
+
+.box {
+  width: 80%;
+  margin: 0 auto;
+  border: 50px solid gray;
+  padding: 20px;
+}
+
+.box p {
+  color: rgb(28, 2, 102);
+  font-size: 20px;
+  text-align: center;
+}
